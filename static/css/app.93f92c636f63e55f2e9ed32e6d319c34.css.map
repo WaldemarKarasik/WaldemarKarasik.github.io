@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.93f92c636f63e55f2e9ed32e6d319c34.css"],"names":[],"mappings":"AACA,yBACA,IACE,YAAc,CACf,CACA,AAED,eACC,eAAgB,AAChB,cAAgB,CAChB","file":"app.93f92c636f63e55f2e9ed32e6d319c34.css","sourcesContent":["\n@media (max-width: 400px) {\nnav {\r\n\t\tdisplay: none;\n}\n}\r\n\n#why-paragraph {\n\tfont-size: 15px;\n\tmargin-top: 3px;\n}\n"]}
